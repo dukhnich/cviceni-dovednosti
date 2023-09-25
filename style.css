@@ -41,3 +41,9 @@ body {
 .skill__value {
   text-align: right;
 }
+.skill-error {
+  text-align: center;
+  color: red;
+  grid-column: 1 / 4;
+  margin-bottom: 8px;
+}
